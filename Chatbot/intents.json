@@ -16,7 +16,7 @@
 
 {"tag": "name",
 "patterns": ["whats your name?","what should i call u??","do u have any name?","who r u?","can you tell me your name?","name??"],
-"responses": ["You can call me Choco :)", "I am Choco an AI chatbot:)"]
+"responses": ["You can call me Coco :)", "I am Coco an AI chatbot:)"]
 },
 
 {"tag": "job",
